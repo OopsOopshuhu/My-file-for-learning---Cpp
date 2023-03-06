@@ -1,0 +1,3 @@
+/home/nulinuliyc/cpptest/tmp/sort/build/CMakeFiles/mysort_exe.dir
+/home/nulinuliyc/cpptest/tmp/sort/build/CMakeFiles/edit_cache.dir
+/home/nulinuliyc/cpptest/tmp/sort/build/CMakeFiles/rebuild_cache.dir
